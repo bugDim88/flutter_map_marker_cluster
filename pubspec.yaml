@@ -16,7 +16,7 @@ dependencies:
   flutter_map: #^0.8.2
     git:
       url: git://github.com/bugDim88/flutter_map.git
-      ref: WMS_support
+      ref: cach_tile_layer
       
   latlong: ^0.6.1
 
